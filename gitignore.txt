@@ -1,2 +1,1 @@
 dist/
-https://script.google.com/macros/s/AKfycbz4u56MF67jBpAPo69xOMGgrf2GeR7tQp-rFO9ektzZFHD9C3CfPtvEksCyZBJd-mDP/exec
